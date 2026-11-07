@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm Ibtissam Gaamouche! 👋
 
 ### AI Engineering Student | AI & Data Enthusiast
@@ -79,7 +79,6 @@ using Python, TensorFlow, OpenCV, and Streamlit.
 - Developed a CV-to-job matching system using TF-IDF.
 - Worked with Flask, React.js, PostgreSQL, and REST APIs.
 
----
 
 ## 🌐 Let's Connect
 
