@@ -1,26 +1,16 @@
+# Hi there, I'm Ibtissam Gaamouche 👋
 
-# Hi there, I'm Ibtissam Gaamouche! 👋
+**AI Engineering Student | Generative AI · LLMs · Data Engineering**
 
-### AI Engineering Student | AI & Data Enthusiast
-
-🎓 Final-year Engineering Student in **Digital Transformation and Artificial Intelligence** at ENSAH, Morocco.
-
-💡 Passionate about Artificial Intelligence, Generative AI, LLM-powered applications, and Data Engineering.
-
-🚀 Interested in building intelligent solutions that solve real-world problems.
-
----
+Engineering student in **Digital Transformation and Artificial Intelligence** at **ENSAH** (Morocco), graduating **June 2027**. I build intelligent solutions that solve real-world problems, from LLM-powered applications to data pipelines.
 
 ## 👩‍💻 About Me
 
-- 🎓 Engineering student at ENSAH (2024–2027).
-- 🤖 Interested in AI Engineering, Generative AI, LLMs, and Machine Learning.
-- 💼 AI Engineering Intern at AriMayi.
-- 🔍 Currently developing a **Multi-Agent RAG Assistant with Source Verification for Internal Administrative Documents**.
-- 🌱 Continuously learning about RAG systems, AI agents, and intelligent data applications.
-- 🎯 Looking for a 2027 end-of-studies internship (PFE) in AI Engineering or Data Engineering.
-
----
+- 🎓 Engineering student at ENSAH, graduating June 2027
+- 💼 AI Engineering Intern at **AriMayi** (2026), where I worked on an AI-powered software repository analysis module (Llama 3.1 via Ollama, Django REST Framework, Celery)
+- 🔭 Currently building a **Multi-Agent RAG Assistant** with source verification for internal administrative documents
+- 🌱 Currently learning: RAG systems, AI agents, and evaluation of LLM applications
+- 🎯 Looking for a **2027 end-of-studies internship (PFE)** in AI Engineering or Data Engineering
 
 ## 🛠️ Technical Skills
 
